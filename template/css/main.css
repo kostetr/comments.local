@@ -1,0 +1,41 @@
+.logo {
+    width: 35px;
+    height: 35px;
+}
+.profile-center{
+    margin-left: auto;
+    margin-right: auto ;
+}
+.allpatterns-align-center{
+    position: absolute;
+    top: 35%;
+}
+.allpatterns-checkbox{
+    width: 25px;
+    height: 25px;
+}
+.allpatterns-align-center-container{
+    position: relative;
+    border: 1px solid blue;
+}
+.profile-50proc{  
+    width: 40%;
+}
+.profile-width-input{  
+    width: 250px;
+}
+.profile-width-table{  
+    width: 200px;
+}
+.submit-left{
+    float: left ;  
+    padding-right: 5px;
+}
+.db-td-align-center{
+    align-content: center;
+}
+#notes-not-save{
+    float: left ;  
+    padding-right: 5px;
+    visibility: hidden;
+}
